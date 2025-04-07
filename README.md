@@ -38,7 +38,7 @@ Este é um aplicativo móvel de loja digital desenvolvido com **Flutter**, permi
 ![Tela de Detalhes de Farmacia](assets/FarmaciaDetails.png)
 
 ### 📌 Tela de Localizacao da Farmacia
-![Tela de Localizacao da Farmacia](assets/map.png)
+![Tela de Localizacao da Farmacia](assets/Map.png)
 
 ### 📌 Tela de Perfil
 ![Tela de Perfil](assets/perfil.png)
