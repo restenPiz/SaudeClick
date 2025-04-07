@@ -1,0 +1,36 @@
+name: healthclick_app
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  getwidget: ^6.0.0
+  google_maps_flutter: ^2.12.1
+  provider: ^6.0.1
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  assets:
+    - assets/Saude.png
+    - assets/google.png
+    - assets/background.jpg
+    - assets/dif.jpg
+    - assets/back.png
+    - assets/back1.jpg
+    - assets/back2.jpg
+    - assets/back3.jpg
+    
+  uses-material-design: true
